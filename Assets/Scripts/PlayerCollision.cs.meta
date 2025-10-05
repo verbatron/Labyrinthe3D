@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 817353db634f461459c123d62cc13bc6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TxtFinJeu: {instanceID: 0}
+  - SonDouleur: {fileID: 8300000, guid: ea407ea5eeefd7646b23b3e3fa5413b9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
